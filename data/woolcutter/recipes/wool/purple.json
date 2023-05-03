@@ -1,8 +1,13 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:purple_banner"
-  },
+  "ingredient": [
+    {
+      "item": "minecraft:purple_banner"
+    },
+    {
+      "item": "minecraft:purple_bed"
+    }
+  ],
   "result": "minecraft:purple_wool",
   "group": "cutting_wool",
   "count": 1

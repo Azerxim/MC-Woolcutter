@@ -1,13 +1,15 @@
 # Woolcutter
 
-Version: 1.0
+Version: 2.0
 
-Minecraft: 1.19 > 1.19.3
+Minecraft: 1.20
 
 --------------------------------------------
 # English
 
 ## Stonecutter
+
+#### Banners
 - Black banner <-> Black wool
 - Blue banner <-> Blue wool
 - Brown banner <-> Brown wool
@@ -25,16 +27,26 @@ Minecraft: 1.19 > 1.19.3
 - White banner <-> White wool
 - Yellow banner <-> Yellow wool
 
+#### Bed
+- Colored Bed <-> Associated Colored Wool
+- Colored Bed <-> Another colored bed
+
+#### Carpet
+- Colored Wool -> Associated Colored Carpet x3
+
 ## Crafting table
 - Paper + Map -> Globe Banner Pattern
 - Paper + Golden Apple -> Mojang Banner Pattern
 - Paper + Gold Block -> Piglin Banner Pattern
 - Paper + Skeleton Skull -> Skull Banner Pattern
+- 3 Carpet -> 1 White Wool
 
 --------------------------------------------
 # Français
 
 ## Tailleur de pierre
+
+#### Bannière
 - Bannière noire <-> Laine noire
 - Bannière bleue <-> Laine bleue
 - Bannière marron <-> Laine marron
@@ -52,8 +64,16 @@ Minecraft: 1.19 > 1.19.3
 - Bannière blanche <-> Laine blanche
 - Bannière jaune <-> Laine jaune
 
+#### Lit
+- Lit coloré <-> Laine coloré associée
+- Lit coloré <-> Un autre lit coloré
+
+#### Tapis
+- Laine coloré -> Tapis coloré associé x3
+
 ## Table d'artisanat
 - Papier + Carte -> Motif de bannière Globe
 - Papier + Pomme d'or -> Motif de bannière Mojang
 - Papier + Bloc d'or -> Motif de bannière Piglin
 - Papier + Crâne de squelette -> Motif de bannière Crâne
+- 3 Tapis -> 1 Laine blanche

@@ -48,6 +48,9 @@
         },
         {
             "item": "minecraft:yellow_bed"
+        },
+        {
+            "item": "minecraft:light_gray_wool"
         }
     ],
     "result": "minecraft:light_gray_bed",

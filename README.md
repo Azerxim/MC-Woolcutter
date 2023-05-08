@@ -91,4 +91,4 @@ Minecraft: 1.20
 
 
 --------------------------------------------
-[![TopazDev](https://download.topazdev.fr/Images/topazdev.png)](https://minecraft.topazdev.fr/)
+[![TopazDev](https://dl.topazdev.fr/stock/images/web/topazdev-smoothwhite.png)](https://minecraft.topazdev.fr/)

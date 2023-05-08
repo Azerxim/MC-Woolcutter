@@ -77,3 +77,14 @@ Minecraft: 1.20
 - Papier + Bloc d'or -> Motif de bannière Piglin
 - Papier + Crâne de squelette -> Motif de bannière Crâne
 - 3 Tapis -> 1 Laine blanche
+
+--------------------------------------------
+# Images
+
+![Wool](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/wool.png)
+
+![Banner](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/banner.png)
+
+![Bed](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/bed.png)
+
+![Carpet](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/carpet.png)

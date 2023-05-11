@@ -1,3 +1,6 @@
+[![Download on CurseForge](https://dl.topazdev.fr/stock/images/web/curseforge.svg)](https://www.curseforge.com/minecraft/customization/woolcutter)
+[![Download on Modrinth](https://dl.topazdev.fr/stock/images/web/modrinth.svg)](https://modrinth.com/datapack/woolcutter)
+
 # Woolcutter
 
 Version: 1.0

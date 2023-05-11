@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:green_wool"
+  },
+  "result": "minecraft:green_carpet",
+  "group": "cutting_wool",
+  "count": 3
+}

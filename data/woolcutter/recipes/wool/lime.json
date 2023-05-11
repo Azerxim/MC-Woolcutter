@@ -1,8 +1,13 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:lime_banner"
-  },
+  "ingredient": [
+    {
+      "item": "minecraft:lime_banner"
+    },
+    {
+      "item": "minecraft:lime_bed"
+    }
+  ],
   "result": "minecraft:lime_wool",
   "group": "cutting_wool",
   "count": 1

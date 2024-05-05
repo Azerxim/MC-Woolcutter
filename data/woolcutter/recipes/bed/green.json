@@ -53,8 +53,10 @@
             "item": "minecraft:green_wool"
         }
     ],
-    "result": "minecraft:green_bed",
-    "group": "cutting_wool",
-    "count": 1
+    "result": {
+      "count": 1,
+      "id": "minecraft:green_bed"
+    },
+    "group": "cutting_wool"
 }
   

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:lime_wool"
   },
-  "result": "minecraft:lime_carpet",
-  "group": "cutting_wool",
-  "count": 3
+  "result": {
+    "count": 3,
+    "id": "minecraft:lime_carpet"
+  },
+  "group": "cutting_wool"
 }

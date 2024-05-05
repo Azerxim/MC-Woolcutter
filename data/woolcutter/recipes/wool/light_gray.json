@@ -8,7 +8,9 @@
       "item": "minecraft:light_gray_bed"
     }
   ],
-  "result": "minecraft:light_gray_wool",
-  "group": "cutting_wool",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:light_gray_wool"
+  },
+  "group": "cutting_wool"
 }

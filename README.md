@@ -3,9 +3,9 @@
 
 # Woolcutter
 
-Version: 2.0
+Version: 2.1
 
-Minecraft: 1.20
+Minecraft: 1.20.6
 
 --------------------------------------------
 # English

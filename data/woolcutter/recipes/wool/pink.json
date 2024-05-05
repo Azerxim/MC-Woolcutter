@@ -8,7 +8,9 @@
       "item": "minecraft:pink_bed"
     }
   ],
-  "result": "minecraft:pink_wool",
-  "group": "cutting_wool",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:pink_wool"
+  },
+  "group": "cutting_wool"
 }

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:black_wool"
   },
-  "result": "minecraft:black_banner",
-  "group": "cutting_wool",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:black_banner"
+  },
+  "group": "cutting_wool"
 }

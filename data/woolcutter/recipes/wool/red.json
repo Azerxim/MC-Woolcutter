@@ -7,8 +7,10 @@
     {
       "item": "minecraft:red_bed"
     }
-],
-  "result": "minecraft:red_wool",
-  "group": "cutting_wool",
-  "count": 1
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_wool"
+  },
+  "group": "cutting_wool"
 }

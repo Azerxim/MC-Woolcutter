@@ -8,7 +8,9 @@
       "item": "minecraft:purple_bed"
     }
   ],
-  "result": "minecraft:purple_wool",
-  "group": "cutting_wool",
-  "count": 1
+  "result": {
+    "count": 1,
+    "id": "minecraft:purple_wool"
+  },
+  "group": "cutting_wool"
 }

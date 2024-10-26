@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:cyan_banner"
-    },
-    {
-      "item": "minecraft:cyan_bed"
-    }
+    "minecraft:cyan_banner",
+    "minecraft:cyan_bed"
   ],
   "result": {
     "count": 1,

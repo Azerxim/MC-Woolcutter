@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:light_gray_banner"
-    },
-    {
-      "item": "minecraft:light_gray_bed"
-    }
+    "minecraft:light_gray_banner",
+    "minecraft:light_gray_bed"
   ],
   "result": {
     "count": 1,

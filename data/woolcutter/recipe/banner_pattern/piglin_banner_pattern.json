@@ -1,15 +1,11 @@
 {
   "type": "crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:gold_block"
-    }
+    "minecraft:paper",
+    "minecraft:gold_block"
   ],
   "result": {
-    "item": "minecraft:piglin_banner_pattern",
+    "id": "minecraft:piglin_banner_pattern",
     "count": 1
   }
 }

@@ -6,15 +6,11 @@
 		"ccc"
 	],
 	"key": {
-		"c": {
-			"tag": "woolcutter:carpet"
-		},
-        "d": {
-            "item": "minecraft:yellow_dye"
-        }
+		"c": "#woolcutter:carpet",
+        "d": "minecraft:yellow_dye"
 	},
 	"result": {
-		"item": "minecraft:yellow_carpet",
+		"id": "minecraft:yellow_carpet",
         "count": 8
 	}
 }

@@ -3,16 +3,18 @@
 
 # Woolcutter
 
-Version: 3.0
+Version: 3.1
 
-Minecraft: 1.21
+Minecraft: 1.21.3
 
---------------------------------------------
+---
+
 # English
 
 ## Stonecutter
 
-#### Banners
+### Banners
+
 - Black banner <-> Black wool
 - Blue banner <-> Blue wool
 - Brown banner <-> Brown wool
@@ -30,26 +32,31 @@ Minecraft: 1.21
 - White banner <-> White wool
 - Yellow banner <-> Yellow wool
 
-#### Bed
+### Bed
+
 - Colored Bed <-> Associated Colored Wool
 - Colored Bed <-> Another colored bed
 
-#### Carpet
+### Carpet
+
 - Colored Wool -> Associated Colored Carpet x3
 
 ## Crafting table
+
 - Paper + Map -> Globe Banner Pattern
 - Paper + Golden Apple -> Mojang Banner Pattern
 - Paper + Gold Block -> Piglin Banner Pattern
 - Paper + Skeleton Skull -> Skull Banner Pattern
 - 3 Carpet -> 1 White Wool
 
---------------------------------------------
+---
+
 # Français
 
 ## Tailleur de pierre
 
-#### Bannière
+### Bannière
+
 - Bannière noire <-> Laine noire
 - Bannière bleue <-> Laine bleue
 - Bannière marron <-> Laine marron
@@ -67,21 +74,25 @@ Minecraft: 1.21
 - Bannière blanche <-> Laine blanche
 - Bannière jaune <-> Laine jaune
 
-#### Lit
+### Lit
+
 - Lit coloré <-> Laine coloré associée
 - Lit coloré <-> Un autre lit coloré
 
-#### Tapis
+### Tapis
+
 - Laine coloré -> Tapis coloré associé x3
 
 ## Table d'artisanat
+
 - Papier + Carte -> Motif de bannière Globe
 - Papier + Pomme d'or -> Motif de bannière Mojang
 - Papier + Bloc d'or -> Motif de bannière Piglin
 - Papier + Crâne de squelette -> Motif de bannière Crâne
 - 3 Tapis -> 1 Laine blanche
 
---------------------------------------------
+---
+
 # Images
 
 ![Wool](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/wool.png)
@@ -92,6 +103,6 @@ Minecraft: 1.21
 
 ![Carpet](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/carpet.png)
 
+---
 
---------------------------------------------
-[![TopazDev](https://dl.topazdev.fr/stock/images/web/topazdev-smoothwhite.png)](https://minecraft.topazdev.fr/)
+[![TopazDev](https://dl.topazdev.fr/stock/images/web/spinelle_galaxie.png)](https://spinelle.eu/minecraft/)

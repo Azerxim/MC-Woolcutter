@@ -1,18 +1,12 @@
 {
     "type": "crafting_shapeless",
     "ingredients": [
-        {
-            "tag": "woolcutter:carpet"
-        },
-        {
-            "tag": "woolcutter:carpet"
-        },
-        {
-            "tag": "woolcutter:carpet"
-        }
+        "#woolcutter:carpet",
+        "#woolcutter:carpet",
+        "#woolcutter:carpet"
     ],
     "result": {
-        "item": "minecraft:white_wool",
+        "id": "minecraft:white_wool",
         "count": 1
     }
 }

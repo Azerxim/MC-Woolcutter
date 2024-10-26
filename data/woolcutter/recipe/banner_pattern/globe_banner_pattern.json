@@ -1,15 +1,11 @@
 {
   "type": "crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:map"
-    }
+    "minecraft:paper",
+    "minecraft:map"
   ],
   "result": {
-    "item": "minecraft:globe_banner_pattern",
+    "id": "minecraft:globe_banner_pattern",
     "count": 1
   }
 }

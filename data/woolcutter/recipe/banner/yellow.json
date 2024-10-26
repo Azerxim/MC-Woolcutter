@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:yellow_wool"
-  },
+  "ingredient": "yellow_wool",
   "result": {
     "count": 1,
     "id": "minecraft:yellow_banner"

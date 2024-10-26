@@ -1,12 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    {
-      "item": "minecraft:magenta_banner"
-    },
-    {
-      "item": "minecraft:magenta_bed"
-    }
+    "minecraft:magenta_banner",
+    "minecraft:magenta_bed"
   ],
   "result": {
     "count": 1,

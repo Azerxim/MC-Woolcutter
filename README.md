@@ -5,7 +5,7 @@
 
 Version: 3.1
 
-Minecraft: 1.21.3
+Minecraft: 1.21.2 - 1.21.5
 
 ---
 
@@ -103,6 +103,3 @@ Minecraft: 1.21.3
 
 ![Carpet](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/carpet.png)
 
----
-
-[![TopazDev](https://dl.topazdev.fr/stock/images/web/spinelle_galaxie.png)](https://spinelle.eu/minecraft/)

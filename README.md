@@ -1,99 +1,34 @@
-[![Download on CurseForge](https://dl.topazdev.fr/stock/images/web/curseforge.svg)](https://www.curseforge.com/minecraft/customization/woolcutter)
+[![Download on CurseForge](https://dl.topazdev.fr/stock/images/web/curseforge.svg)](https://www.curseforge.com/minecraft/data-packs/woolcutter)
 [![Download on Modrinth](https://dl.topazdev.fr/stock/images/web/modrinth.svg)](https://modrinth.com/datapack/woolcutter)
 
 # Woolcutter
 
-Version: 3.1
+Ever dyed a whole sheep's worth of wool just to fix one wrong color? Woolcutter adds stonecutter recipes to instantly swap between wool colors, banner colors, bed colors and carpets — no dye, no crafting table juggling.
 
-Minecraft: 1.21.2 - 1.21.5
+## Features
 
----
+### Stonecutter
 
-# English
+**Banners**
+Convert any banner to any of the 16 colors directly, using the matching wool color as input (e.g. Black wool <-> Black banner).
 
-## Stonecutter
+**Beds**
+Swap a bed to another color using the matching colored wool, or trade directly between two colored beds.
 
-### Banners
+**Carpet**
+Turn colored wool into 3x matching colored carpet.
 
-- Black banner <-> Black wool
-- Blue banner <-> Blue wool
-- Brown banner <-> Brown wool
-- Cyan banner <-> Cyan wool
-- Gray banner <-> Gray wool
-- Green banner <-> Green wool
-- Light blue banner <-> Light blue wool
-- Light gray banner <-> Light gray wool
-- Lime banner <-> Lime wool
-- Magenta banner <-> Magenta wool
-- Orange banner <-> Orange wool
-- Pink banner <-> Pink wool
-- Purple banner <-> Purple wool
-- Red banner <-> Red wool
-- White banner <-> White wool
-- Yellow banner <-> Yellow wool
+### Crafting table
 
-### Bed
-
-- Colored Bed <-> Associated Colored Wool
-- Colored Bed <-> Another colored bed
-
-### Carpet
-
-- Colored Wool -> Associated Colored Carpet x3
-
-## Crafting table
-
+A few extra banner pattern shortcuts:
 - Paper + Map -> Globe Banner Pattern
 - Paper + Golden Apple -> Mojang Banner Pattern
 - Paper + Gold Block -> Piglin Banner Pattern
 - Paper + Skeleton Skull -> Skull Banner Pattern
-- 3 Carpet -> 1 White Wool
+- 3x Carpet -> 1 White Wool
 
----
-
-# Français
-
-## Tailleur de pierre
-
-### Bannière
-
-- Bannière noire <-> Laine noire
-- Bannière bleue <-> Laine bleue
-- Bannière marron <-> Laine marron
-- Bannière cyan <-> Laine cyan
-- Bannière grise <-> Laine grise
-- Bannière verte <-> Laine verte
-- Bannière bleu clair <-> Laine bleu clair
-- Bannière gris clair <-> Laine gris clair
-- Bannière citron vert <-> Laine citron vert
-- Bannière magenta <-> Laine magenta
-- Bannière orange <-> Laine orange
-- Bannière rose <-> Laine rose
-- Bannière violette <-> Laine violette
-- Bannière rouge <-> Laine rouge
-- Bannière blanche <-> Laine blanche
-- Bannière jaune <-> Laine jaune
-
-### Lit
-
-- Lit coloré <-> Laine coloré associée
-- Lit coloré <-> Un autre lit coloré
-
-### Tapis
-
-- Laine coloré -> Tapis coloré associé x3
-
-## Table d'artisanat
-
-- Papier + Carte -> Motif de bannière Globe
-- Papier + Pomme d'or -> Motif de bannière Mojang
-- Papier + Bloc d'or -> Motif de bannière Piglin
-- Papier + Crâne de squelette -> Motif de bannière Crâne
-- 3 Tapis -> 1 Laine blanche
-
----
-
-# Images
+<details>
+<summary>Gallery</summary>
 
 ![Wool](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/wool.png)
 
@@ -103,3 +38,17 @@ Minecraft: 1.21.2 - 1.21.5
 
 ![Carpet](https://raw.githubusercontent.com/Azerxim/MC-Woolcutter/main/images/carpet.png)
 
+
+</details>
+
+## 📦 Compatibility
+
+| | |
+|---|---|
+| **Minecraft versions** | 1.19.x · 1.20.x · 1.21.x · 26.1 · 26.2 |
+| **Type** | Data Pack (no mods required) |
+| **License** | MIT |
+
+## 📥 Installation
+
+Like any data pack: drop the downloaded folder into `.minecraft/saves/<your_world>/datapacks/`, then run `/reload` or restart the world.

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:magenta_cushion"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:magenta_wool_slab"
+  },
+  "group": "cutting_wool_slab"
+}

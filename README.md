@@ -3,7 +3,7 @@
 
 # Woolcutter
 
-Ever dyed a whole sheep's worth of wool just to fix one wrong color? Woolcutter adds stonecutter recipes to instantly swap between wool colors, banner colors, bed colors and carpets — no dye, no crafting table juggling.
+Ever dyed a whole sheep's worth of wool just to fix one wrong color? Woolcutter adds stonecutter recipes to instantly swap between wool colors, banner colors, bed colors, carpets, wool slabs and cushions — no dye, no crafting table juggling.
 
 ## Features
 
@@ -18,6 +18,12 @@ Swap a bed to another color using the matching colored wool, or trade directly b
 **Carpet**
 Turn colored wool into 3x matching colored carpet.
 
+**Wool slabs**
+Turn colored wool into 2x matching colored wool slabs, or turn a cushion into a wool slab of the same color.
+
+**Cushions**
+Swap a cushion to any of the 16 colors directly.
+
 ### Crafting table
 
 A few extra banner pattern shortcuts:
@@ -26,6 +32,7 @@ A few extra banner pattern shortcuts:
 - Paper + Gold Block -> Piglin Banner Pattern
 - Paper + Skeleton Skull -> Skull Banner Pattern
 - 3x Carpet -> 1 White Wool
+- 2x Wool Slab -> 1 White Wool
 
 <details>
 <summary>Gallery</summary>
@@ -45,7 +52,7 @@ A few extra banner pattern shortcuts:
 
 | | |
 |---|---|
-| **Minecraft versions** | 1.19.x · 1.20.x · 1.21.x · 26.1 · 26.2 |
+| **Minecraft versions** | 1.19.x · 1.20.x · 1.21.x · 26.1 · 26.2 · 26.3 |
 | **Type** | Data Pack (no mods required) |
 | **License** | MIT |
 

@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 57,
+    "pack_format": 121,
     "supported_formats": {
-      "min_inclusive": 57,
-      "max_inclusive": 57
+      "min_inclusive": 121,
+      "max_inclusive": 150
     },
-    "description": "Woolcutter MC 1.21.3"
+    "description": "Woolcutter MC 26.3"
   }
 }

@@ -10,7 +10,7 @@ Ever dyed a whole sheep's worth of wool just to fix one wrong color? Woolcutter 
 ### Stonecutter
 
 **Banners**
-Convert any banner to any of the 16 colors directly, using the matching wool color as input (e.g. Black wool <-> Black banner).
+Swap a banner to another color using the matching colored wool, or trade directly between two colored banners.
 
 **Beds**
 Swap a bed to another color using the matching colored wool, or trade directly between two colored beds.
@@ -19,10 +19,10 @@ Swap a bed to another color using the matching colored wool, or trade directly b
 Turn colored wool into 3x matching colored carpet.
 
 **Wool slabs**
-Turn colored wool into 2x matching colored wool slabs, or turn a cushion into a wool slab of the same color.
+Turn colored wool into 2x matching colored wool slabs, or turn any wool slab or cushion into a wool slab of any color.
 
 **Cushions**
-Swap a cushion to any of the 16 colors directly.
+Swap a cushion to another color using the matching colored wool, or trade directly between two colored cushions.
 
 ### Crafting table
 

@@ -1,21 +1,35 @@
-MIT License
+Woolcutter
+Copyright (c) 2023-2026 Azerxim. All rights reserved.
 
-Copyright (c) 2024 Azerxim
+The source of this pack is public, but the pack is not open source: you may
+use it only as allowed below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Official pages:
+- https://modrinth.com/datapack/woolcutter
+- https://github.com/Azerxim/MC-Woolcutter
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may:
+- download the pack from its official pages and use it in your own worlds;
+- use it on a server, public or private, including by installing an
+  unmodified copy on the server or sending it to players as the server's
+  resource pack;
+- add it to a modpack, as long as the modpack downloads it from an official
+  page instead of including its files;
+- show it in videos, streams, screenshots and reviews;
+- modify it for your own use, without sharing the modified files.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may not:
+- re-upload or redistribute the pack, or any part of it, modified or not, on
+  another website, platform or file host;
+- share a modified version of the pack, or reuse its files in another pack;
+- sell the pack, or put the pack or access to it behind a paywall;
+- claim the pack, or any part of it, as your own.
+
+For any other use, ask first by opening an issue at https://github.com/Azerxim/MC-Woolcutter/issues.
+
+Minecraft and its assets belong to Mojang Studios and Microsoft. This license
+only covers the original work in this pack.
+
+THE PACK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE PACK OR ITS USE.
